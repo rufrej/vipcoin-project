@@ -12,8 +12,41 @@
 </head>
 <body>
     <header class="info">
+
+      <section class="top-nav">
+       
+        <input id="menu-toggle" type="checkbox">
+        <label class="menu-button-container" for="menu-toggle">
+        <div class="menu-button"></div>
+      </label>
+      <div class="rhomb-info rhomb-info__menu-toggle">
+        <div class="info__logo__content">VIP COIN</div>
+      </div>
+      <div class="login">
+        <img src="/login-icon.b87fbe3d.svg" alt="login-icon">
+        <a class="login__text" href="">Войти</a>
+      </div>
+        <ul class="menu">
+          <li>ЦЕЛИ</li>
+          <li>СТЕЙКИНГ</li>
+          <li>ПАКЕТЫ</li>
+          <li>РЕФЕРАЛЬНАЯ СИСТЕМА</li>
+          <li>ПРОМО</li>
+          <li>ROAD MAP</li>
+          <li>
+            <div class="info__icons-wrapper">
+              <a href=""><img src="/inst-logo.472b27d1.svg" alt="inst-logo" class="header__icon"></a>
+              <a href=""><img src="/tg-logo.8922e268.svg" alt="tg-logo" class="header__icon"></a>
+              <a href=""><img src="/vk-logo.36ad4a5c.svg" alt="/vk-logo" class="header__icon"></a>
+              <a href=""><img src="/youtube-logo.f8970b19.svg" alt="youtube-logo" class="header__icon"></a>
+              <a href=""><img src="/ok-logo.1cd6eef0.svg" alt="ok-logo" class="header__icon"></a>
+            </div>
+          </li>
+        </ul>
+      </section>
+
       <div class="info__container">
-        <div class="rhomb rhomb-info">
+        <div class="rhomb-info">
           <div class="info__logo__content">VIP COIN</div>
         </div>
         <nav class="nav">
@@ -39,23 +72,26 @@
           <a class="login__text" href="">Войти</a>
         </div>
       </div>  
+
+      
+
     </header>
     <main>
-  <section class="intro">
-   <div class="intro__container">    
-      <div class="intro-title__top">
-      <h1 class=" intro-text">Новая платежная</h1>
-      <div class="rhomb rhomb-intro">
-        <div class="intro__logo__content">VIP COIN</div>
+  <section class="register">
+   <div class="register__container">    
+      <div class="register-title__top">
+      <h1 id="title" class="register-text">Новая платежная</h1>
+      <div class="rhomb-register">
+        <div class="register__logo__content">VIP COIN</div>
       </div>
       </div>
-      <div class="intro-title__bottom">
-       <h2 class=" intro-text">валюта для игровой<br>интернет-индустрии</h2>
+      <div class="register-title__bottom">
+       <h2 id="title" class=" register-text">валюта для игровой<br>интернет-индустрии</h2>
       </div>
    </div>   
-    <div class="intro__regicter">
-      <p class="intro__regicter__text">Для использования на всех сайтах и сервисах с онлайн играми и ставками.</p>
-      <button class="intro__regicter__button">Зарегистрироваться</button>
+    <div class="register__regicter">
+      <p class="register__regicter__text">Для использования на всех сайтах и сервисах с онлайн играми и ставками.</p>
+      <button class="register__regicter__button">Зарегистрироваться</button>
     </div>
       </section>
 
@@ -122,7 +158,7 @@
 
  <section class="our-targets">
        <div class="our-targets__text">
-        <h3 class="our-targets__text__title">Наши Цели</h3>
+        <h3 id="title" class="our-targets__text__title">Наши Цели</h3>
         <p class="our-targets__text__describe">Первое универсальное платежное средство<br> для онлайн гэмблинга.</p>
         </div>
         <div class="our-targets__info-block__wrapper">
@@ -155,17 +191,16 @@
           <p class="our-targets__info-block__text">Создание универсальной<br> валюты для пополнения счета<br> на всех гэмблинг-сайтах</p>
         </div>
         <div>
-
         </div>
       </div></section>
 
       <section class="cant-buy">
-        <h3 class="cant-buy__title">Нельзя купить до выхода на биржу. Можно<br> только  <span class="win">выиграть</span>  или  <span class="earn">заработать</span></h3>
+        <h3 id="title" class="cant-buy__title">Нельзя купить до выхода на биржу. Можно<br> только  <span class="win">выиграть</span>  или  <span class="earn">заработать</span></h3>
       </section>
 
       <section class="converter">
         <div class="title__wrapper">
-          <h4 class="converter__title">1 VIP-Coin<br>1 USDT </h4>
+          <h4 id="title" class="converter__title">1 VIP-Coin<br>1 USDT </h4>
         </div>
         <div class="graph">
         <img class="graph__img" src="/Graph.0fe3b511.svg" alt="graph">
@@ -176,7 +211,7 @@
       <section class="staking">
          <div class="staking__text__wrapper">
           <p class="staking__text staking__text__top">Как добыть монеты<br> до выхода на биржу?</p>
-          <h4 class="staking__title">Взаимный стейкинг</h4>
+          <h4 id="title" class="staking__title">Взаимный стейкинг</h4>
           <p class="staking__text staking__text__bottom">начисление монет VIP-coin<br> по заданному алгоритму<br> при депозите в USD</p>
          </div>
 
@@ -206,7 +241,7 @@
 
       <section class="package">
         <div class="package__text">
-          <h4 class="package__text__title">Пакеты</h4>
+          <h4 id="title" class="package__text__title">Пакеты</h4>
           <p class="package__text__example">Пример: вы размещаете $1000 на депозит.<br> Каждый день вам начисляется процент в VIP-Coin.<br> За месяц вы получите 290 VIP-Coin (1 VC=1 USDT).</p>
         </div>
 
@@ -228,7 +263,7 @@
 
       <section class="referral">
         <div class="referral__text__wrapper">
-          <h4 class="referral__title">Реферальная система</h4>
+          <h4 id="title" class="referral__title">Реферальная система</h4>
           <p class="referral__text">стейкинг взаимный, потому что вы <br>получаете проценты от депозитов <br> ваших партнеров</p>
          </div>
           
@@ -260,7 +295,7 @@
 
          <div class="referral__block"> 
           <article class="referral__block__text">
-             <h5 class="referral__block__title">Взаимный<br> стейкинг</h5>
+             <h5 id="title" class="referral__block__title">Взаимный<br> стейкинг</h5>
              <p class="referral__block__title__text referral__block__title__text2">начисление процентов от депозитов ваших партнеров</p>
              
             <div class="referral__block__describe__wrapper2">
@@ -288,7 +323,7 @@
       <section class="promo">
           <h2 class="promo__title">Промо</h2>
           <div class="fast-start">
-            <h4 class="fast-start__title">”Быстрый<br> старт”</h4>
+            <h5 id="title" class="fast-start__title">”Быстрый<br> старт”</h5>
             <div class="rhomb__x2">X2</div>
             <p class="fast-start__text">Удвойте свой маркетинг на неделю<br> и получите мгновенный бонус</p>
           </div>
@@ -298,19 +333,19 @@
             <div class="fast-start__bonus-block__wrapper">
 
               <div class="fast-start__bonus-block">
-                <h6 class="fast-start__bonus-block__title">Бонус<br> с продаж</h6>
+                <h5 id="title" class="fast-start__bonus-block__title">Бонус<br> с продаж</h5>
                 <div class="rhomb__x2__small">X2</div>
                 <p class="fast-start__bonus-block__text">В течение недели все ваши<br> бонусы с продаж удваиваются</p>
               </div>
 
               <div class="fast-start__bonus-block">
-                <h6 class="fast-start__bonus-block__title">Взаимный<br> стейкинг</h6>
+                <h5 id="title" class="fast-start__bonus-block__title">Взаимный<br> стейкинг</h5>
                 <div class="rhomb__x2__small">X2</div>
                 <p class="fast-start__bonus-block__text">В течение недели все<br> проценты от депозитов<br> партнеров удваиваются</p>
               </div>
 
               <div class="fast-start__bonus-block">
-                <h6 class="fast-start__bonus-block__title">Мгновенный<br> бонус</h6>
+                <h5 id="title" class="fast-start__bonus-block__title">Мгновенный<br> бонус</h5>
                 <div class="rhomb__x2__small">X2</div>
                 <p class="fast-start__bonus-block__text">Получите бонус за 4<br> проданных пакета от<br> 400 до 4000 VIP-Coin!</p>
               </div>
@@ -319,7 +354,7 @@
        
           <section class="prize">
             <div class="prize__title__wrapper">
-            <h3 class="prize__title">”Жара”</h3>
+            <h5 id="title" class="prize__title">”Жара”</h5>
             <p class="prize__describe">Получайте призы за оборот всех 6-ти линий</p>
             </div>
             <div class="present__wrapper">
@@ -378,7 +413,7 @@
 
         <section class="prize">
           <div class="prize__title__wrapper">
-          <h3 class="prize__title">”Tesla”</h3>
+          <h3 id="title" class="prize__title">”Tesla”</h3>
           <p class="prize__describe">Получайте призы за оборот всех 6-ти линий</p>
           </div>
           <div class="present__wrapper">
@@ -408,7 +443,6 @@
               <p class="present__describe">Tesla Model X Plaid</p>
             </div>
 
-          
           </div>
 
           <div class="scores">
@@ -426,20 +460,13 @@
             <p class="scores__describe">Это означает, что 100% оборота первой линии пойдут в зачет баллов для<br> промо, со второй линии 50% оборота будет засчитано, с третьей - 25% и т.д. </p>
             <p>Акция действует <span class="sale__date">с 1 по 31 июля</span> 2021 года. Вы можете получить в акции<br> только один подарок. Денежные эквиваленты не предусмотрены.</p>
           </div>
-
         </div>
       </section>
-
-        
-      
-        
-
-      </section>
-
+     </section>
 
       <section class="road-map">
         <div class="road-map__text">
-          <h3 class="road-map__text__title">Road map</h3>
+          <h5 id="title" class="road-map__text__title">Road map</h5>
           <p class="road-map__text__describe">История создание VIP-COIN<br> и дальнейшее развитие</p>
         </div>
 
@@ -550,6 +577,34 @@
           </div>
         </div>
       </section>
+
+      <section class="register">
+        <div class="register__container join__container">    
+
+           <div class="register-title__top join__title__top">
+           <h5 id="title" class=" register-text">Присоединяйся</h5>
+           </div>
+
+           <div class="register-title__middle">
+            <h5 id="title" class="register-text">и начинай</h5>
+            <div class="rhomb-register">
+              <div class="register__logo__content">VIP COIN</div>
+            </div>
+          </div>
+          
+           <div class="register-title__bottom">
+            <h5 id="title" class=" register-text">зарабатывать!</h5>
+           </div>
+        </div>   
+         <div class="register__regicter">
+           <button class="register__regicter__button">Зарегистрироваться</button>
+         </div>
+         <div class="conditions">
+         <a class="conditions__link" href="">Пользовательское соглашение</a>
+         <a class="conditions__link" href="">Политика конфиденциальности</a>
+         </div>
+         
+           </section>
 
       </main>
       <footer class="info">
