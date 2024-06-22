@@ -4,6 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+
+    <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+  />
+
     <link rel="stylesheet" href="./sass/style.scss">
     <link href="https://fonts.cdnfonts.com/css/futura-pt" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -245,19 +251,41 @@
           <p class="package__text__example">Пример: вы размещаете $1000 на депозит.<br> Каждый день вам начисляется процент в VIP-Coin.<br> За месяц вы получите 290 VIP-Coin (1 VC=1 USDT).</p>
         </div>
 
+        <div class="slider middle">
+          <div class="slides">
+            <input type="radio" name="r" id="r1" checked>
+            <input type="radio" name="r" id="r2">
+            <input type="radio" name="r" id="r3">
+            <input type="radio" name="r" id="r4">
 
-        <!-- <div class="swiper">
+            <div class="slide s1"><img src ="./image/slides/100.png" alt="slide"></div>
+            <div class="slide s2"><img src="./image/slides/250.png" alt="slide"></div>
+            <div class="slide s3"><img src="./image/slides/500.png" alt="slide"></div>
+            <div class="slide s4"><img src="./image/slides/1000.png" alt="slide"></div>
+          </div>
+ 
+          <div class="navigation">
+            <label for="r1" class="bar">1</label>
+            <label for="r2" class="bar">2</label>
+            <label for="r3" class="bar">3</label>
+            <label for="r4" class="bar">4</label>
+          </div>
+
+        </div>
+
+
+        <div class="swiper">
           <div class="swiper-wrapper">
-            <div class="swiper-slide"><img src="./image/slides/100.png" alt=""></div>
-            <div class="swiper-slide"><img src="./image/slides/250.png" alt=""></div>
-            <div class="swiper-slide"><img src="./image/slides/500.png" alt=""></div>
-            <div class="swiper-slide"><img src="./image/slides/1000.png" alt=""></div>
+            <div class="swiper-slide"><img src="./image/slides/100.png" alt="slide"></div>
+            <div class="swiper-slide"><img src="./image/slides/250.png" alt="slide"></div>
+            <div class="swiper-slide"><img src="./image/slides/500.png" alt="slide"></div>
+            <div class="swiper-slide"><img src="./image/slides/1000.png" alt="slide"></div>
           </div>
           <div class="swiper-pagination"></div>
-          <div class="swiper-button-prev"></div>
-          <div class="swiper-button-next"></div>
+          <div class="swiper-button-prev"><img src="./image/swiper-button-prev.svg" alt="button"></div>
+          <div class="swiper-button-next"><img src="./image/swiper-button-next.svg" alt="button"></div>
           <div class="swiper-scrollbar"></div>
-        </div> -->
+        </div>
 
       </section>
 
@@ -635,5 +663,7 @@
           </div>
         </div>  
       </footer> 
-</body>
+      <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+     <script src="./scripts.js"></script>
+    </body>
 </html>
