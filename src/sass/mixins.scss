@@ -1,0 +1,80 @@
+@mixin rhomb{
+    background: linear-gradient(176.47deg, #FF3333 -36.48%, rgba(255, 51, 51, 0) 95.83%);
+    transform: rotate(45deg);
+     display: flex;
+     justify-content: center;
+     align-items: center;   
+     position: relative;
+ 
+}
+
+@mixin orbit {
+    content: "";
+    max-width: 665.23px;
+    max-height: 278.03px;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    border: 0.5px solid #FF3333;
+    border-radius: 50%;
+    z-index: -1;
+    transform:rotate(15.78deg) translate(-133px);  
+}
+ 
+@mixin glow{
+    content:"";
+    max-width: 1129px;
+    max-height: 516px;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: radial-gradient(50% 50% at 50% 50%, rgba(255, 51, 51, 0.5) 0%, rgba(255, 51, 51, 0) 100%);
+    animation: animationPulse 3s infinite linear;
+}
+
+@mixin orbit2 {
+    content: "";
+    max-width: 638px;
+    max-height: 266px;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    border: 0.5px solid #FF3333;
+    border-radius: 50%;
+    z-index: 1;
+    transform:rotate(15.78deg) translate(-10px, 90px); 
+}
+
+@mixin promo-rhomb{
+    content: "";
+    width: 150px;
+    height: 150px;
+    background-color: #FF3333;
+    position: absolute;
+    transform: rotate(-45deg);
+}
+
+@mixin promo-rhomb__x2{
+    content: "";
+    width: 100px;
+    height: 100px;
+    background-color: #FF3333;
+    position: absolute;
+    transform: rotate(-45deg) translate(-48%, -68%);
+    z-index: -1;
+}
+
+@mixin promo-rhomb__x2-content{
+    font-family: "Futura PT";
+    font-size: 50px;
+    font-weight: 600;
+    position: relative;
+    color: #FFFFFF;
+}
+
+@mixin hover__block__scale-glow{
+    transform: scale(1.2);
+    transition: .3s;
+    box-shadow: #FF3333 0 0 0 5px;
+    z-index: 2;
+}   
