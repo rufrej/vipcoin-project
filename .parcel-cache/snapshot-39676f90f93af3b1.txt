@@ -4,7 +4,7 @@
 70D:\projects\vipcoin\node_modules\posthtml\node_modules\posthtml-parser133621578517372744 1
 61D:\projects\vipcoin\node_modules\@parcel\packager-css\LICENSE133614772787761271 0
 76D:\projects\vipcoin\node_modules\@parcel\packager-wasm\lib\wasm-sourcemap.js133614772790520994 0
-40D:\projects\vipcoin\src\sass\mixins.scss133629424559644449 0
+40D:\projects\vipcoin\src\sass\mixins.scss134095697874344325 0
 59D:\projects\vipcoin\node_modules\utility-types\package.json133614772794996379 0
 101D:\projects\vipcoin\node_modules\csso\node_modules\css-tree\cjs\syntax\node\PseudoElementSelector.cjs133614772828349165 0
 75D:\projects\vipcoin\node_modules\htmlnano\docs\versioned_docs\version-2.0.0133621578485262580 1
@@ -27,7 +27,7 @@
 61D:\projects\vipcoin\node_modules\swiper\modules\autoplay.scss133615609927343631 0
 74D:\projects\vipcoin\node_modules\@parcel\core\src\requests\AssetRequest.js133614772815508458 0
 40D:\projects\vipcoin\node_modules\timsort133621578545701044 1
-24D:\projects\vipcoin\dist133635571649035038 1
+24D:\projects\vipcoin\dist134095703075876137 1
 66D:\projects\vipcoin\node_modules\@swc\helpers\cjs\_ts_decorate.cjs133614772826284126 0
 68D:\projects\vipcoin\node_modules\swiper\modules\autoplay-element.css133615609917319423 0
 77D:\projects\vipcoin\node_modules\@parcel\core\test\fixtures\duplicate-targets133621578196741736 1
@@ -72,7 +72,7 @@
 78D:\projects\vipcoin\node_modules\caniuse-lite\data\features\payment-request.js133614772872296040 0
 83D:\projects\vipcoin\node_modules\csso\node_modules\css-tree\lib\syntax\node\Rule.js133614772856491969 0
 57D:\projects\vipcoin\node_modules\swiper\swiper-bundle.mjs133615609926554752 0
-34D:\projects\vipcoin\src\index.html133635550518219128 0
+34D:\projects\vipcoin\src\index.html134095703066485605 0
 71D:\projects\vipcoin\node_modules\@parcel\transformer-babel\package.json133614772808815817 0
 54D:\projects\vipcoin\node_modules\domutils\lib\index.js133614772791576584 0
 65D:\projects\vipcoin\node_modules\swiper\types\swiper-options.d.ts133615609927811215 0
@@ -108,7 +108,7 @@
 68D:\projects\vipcoin\node_modules\utility-types\dist\utility-types.js133614772793870874 0
 80D:\projects\vipcoin\node_modules\caniuse-lite\data\features\css-text-box-trim.js133614772857365266 0
 64D:\projects\vipcoin\node_modules\@swc\helpers\src\_ts_values.mjs133614772859007191 0
-34D:\projects\vipcoin\src\scripts.js133635567743805001 0
+34D:\projects\vipcoin\src\scripts.js134095702541813665 0
 53D:\projects\vipcoin\node_modules\.bin\detect-libc.cmd133614772880777799 0
 111D:\projects\vipcoin\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\pseudo-selectors\index.d.ts133614772815351843 0
 82D:\projects\vipcoin\node_modules\caniuse-lite\data\features\css-scroll-behavior.js133614772856819101 0
@@ -116,7 +116,7 @@
 45D:\projects\vipcoin\src\image\games\slots.svg133613768003562034 0
 86D:\projects\vipcoin\node_modules\@babel\highlight\node_modules\color-name\package.json133614772787872042 0
 81D:\projects\vipcoin\node_modules\csso\node_modules\mdn-data\css\types.schema.json133614772813775413 0
-39D:\projects\vipcoin\src\sass\style.scss133635571640871423 0
+39D:\projects\vipcoin\src\sass\style.scss134095702964090123 0
 100D:\projects\vipcoin\node_modules\@parcel\package-manager\test\fixtures\packages\foo-2.0\package.json133614772818057654 0
 43D:\projects\vipcoin\src\sass\variables.scss133630731939613518 0
 82D:\projects\vipcoin\node_modules\@swc\helpers\cjs\_is_native_reflect_construct.cjs133614772822581186 0
@@ -250,7 +250,7 @@
 49D:\projects\vipcoin\src\image\logo\login-icon.svg133606739038049989 0
 80D:\projects\vipcoin\node_modules\posthtml\node_modules\posthtml-parser\readme.md133614772794041958 0
 88D:\projects\vipcoin\node_modules\caniuse-lite\data\features\mdn-text-decoration-style.js133614772870332278 0
-56D:\projects\vipcoin\dist\swiper-button-next.3f648e93.svg133635571648975175 0
+56D:\projects\vipcoin\dist\swiper-button-next.3f648e93.svg134095703074792189 0
 90D:\projects\vipcoin\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc133621578513697524 1
 45D:\projects\vipcoin\src\image\games\poker.svg133613768003542081 0
 52D:\projects\vipcoin\node_modules\posthtml\lib\api.js133614772788816509 0
@@ -492,7 +492,7 @@
 53D:\projects\vipcoin\node_modules\term-size\index.d.ts133614772797726212 0
 43D:\projects\vipcoin\node_modules\color-name133621578428486007 1
 73D:\projects\vipcoin\node_modules\csso\cjs\replace\property\background.cjs133614772801662972 0
-46D:\projects\vipcoin\dist\index.f68744d1.js.map133635571648975175 0
+46D:\projects\vipcoin\dist\index.f68744d1.js.map134095703075836212 0
 56D:\projects\vipcoin\node_modules\@swc\helpers\_\_dispose133621578343331114 1
 69D:\projects\vipcoin\node_modules\swiper\types\modules\public-api.d.ts133615609927701506 0
 60D:\projects\vipcoin\node_modules\normalize-path\package.json133614774342359229 0
@@ -658,7 +658,7 @@
 64D:\projects\vipcoin\node_modules\css-select\lib\esm\types.js.map133614772824588227 0
 62D:\projects\vipcoin\node_modules\json-parse-even-better-errors133621578491214623 1
 65D:\projects\vipcoin\node_modules\postcss-value-parser\lib\walk.js133614772794141877 0
-48D:\projects\vipcoin\dist\vipcoin.59712999.js.map133635571648975175 0
+48D:\projects\vipcoin\dist\vipcoin.59712999.js.map134095703075866171 0
 64D:\projects\vipcoin\node_modules\update-browserslist-db\utils.js133614772792308272 0
 75D:\projects\vipcoin\node_modules\css-select\lib\pseudo-selectors\pseudos.js133614772807359914 0
 82D:\projects\vipcoin\node_modules\@parcel\package-manager\src\NodePackageManager.js133614772812094310 0
@@ -701,7 +701,7 @@
 43D:\projects\vipcoin\node_modules\micromatch133621578510102351 1
 41D:\projects\vipcoin\node_modules\readdirp133621578519050363 1
 72D:\projects\vipcoin\node_modules\caniuse-lite\data\features\vibration.js133614772879093593 0
-45D:\projects\vipcoin\dist\model 3.d75c1e08.png133635571648685949 0
+45D:\projects\vipcoin\dist\model 3.d75c1e08.png134095703075518128 0
 82D:\projects\vipcoin\node_modules\csso\node_modules\css-tree\lib\parser\sequence.js133614772856629783 0
 41D:\projects\vipcoin\node_modules\msgpackr133621578511180876 1
 63D:\projects\vipcoin\node_modules\csso\lib\replace\Percentage.js133614772826995365 0
@@ -850,7 +850,7 @@
 64D:\projects\vipcoin\node_modules\weak-lru-cache\rollup.config.js133614772793132781 0
 67D:\projects\vipcoin\node_modules\htmlnano\lib\modules\minifyCss.cjs133614772803357044 0
 62D:\projects\vipcoin\node_modules\regenerator-runtime\README.md133614772792643598 0
-43D:\projects\vipcoin\dist\phone.1a37052d.png133635571648975175 0
+43D:\projects\vipcoin\dist\phone.1a37052d.png134095703074906039 0
 66D:\projects\vipcoin\node_modules\weak-lru-cache\tests\benchmark.js133614772789214762 0
 69D:\projects\vipcoin\node_modules\swiper\modules\scrollbar.min.mjs.map133615609922307407 0
 85D:\projects\vipcoin\node_modules\@swc\helpers\esm\_class_static_private_method_get.js133614772842199064 0
@@ -915,7 +915,7 @@
 67D:\projects\vipcoin\node_modules\utility-types\dist\mapped-types.js133614772792637650 0
 70D:\projects\vipcoin\node_modules\utility-types\dist\utility-types.d.ts133614772807916206 0
 48D:\projects\vipcoin\node_modules\sass\types\util133621578521367395 1
-46D:\projects\vipcoin\dist\baccarat.efc3848a.svg133635571648975175 0
+46D:\projects\vipcoin\dist\baccarat.efc3848a.svg134095703075484750 0
 73D:\projects\vipcoin\node_modules\csso\node_modules\css-tree\cjs\tokenizer133621578464493994 1
 73D:\projects\vipcoin\node_modules\css-tree\cjs\lexer\generic-an-plus-b.cjs133614772820977022 0
 77D:\projects\vipcoin\node_modules\csso\node_modules\css-tree\lib\data-patch.js133614772852436815 0
@@ -1352,7 +1352,7 @@
 87D:\projects\vipcoin\node_modules\css-select\node_modules\domutils\lib\manipulation.d.ts133614772823175710 0
 64D:\projects\vipcoin\node_modules\caniuse-lite\data\regions\CV.js133614772858441172 0
 82D:\projects\vipcoin\node_modules\caniuse-lite\data\features\css-read-only-write.js133614772856527136 0
-45D:\projects\vipcoin\dist\ok-logo.1cd6eef0.svg133635571648975175 0
+45D:\projects\vipcoin\dist\ok-logo.1cd6eef0.svg134095703075474787 0
 74D:\projects\vipcoin\node_modules\swiper\types\modules\effect-creative.d.ts133615609927551909 0
 70D:\projects\vipcoin\node_modules\swiper\types\modules\effect-flip.d.ts133615609927573618 0
 68D:\projects\vipcoin\node_modules\swiper\types\modules\free-mode.d.ts133615609927581826 0
@@ -1440,7 +1440,7 @@
 69D:\projects\vipcoin\node_modules\@parcel\package-manager\package.json133614772815551034 0
 51D:\projects\vipcoin\node_modules\js-tokens\index.js133614772789640013 0
 72D:\projects\vipcoin\node_modules\node-gyp-build-optional-packages\bin.js133614772788408908 0
-47D:\projects\vipcoin\dist\inst-logo.472b27d1.svg133635571648975175 0
+47D:\projects\vipcoin\dist\inst-logo.472b27d1.svg134095703075474787 0
 81D:\projects\vipcoin\node_modules\swiper\shared\update-on-virtual-data.min.mjs.map133615609925443979 0
 66D:\projects\vipcoin\node_modules\lmdb\dependencies\lz4\lib\lz4hc.c133614772817113208 0
 66D:\projects\vipcoin\node_modules\swiper\modules\controller.min.mjs133615609925704895 0
@@ -1667,7 +1667,7 @@
 53D:\projects\vipcoin\node_modules\json5\lib\unicode.js133614772798204847 0
 87D:\projects\vipcoin\node_modules\lmdb\node_modules\node-addon-api\tools\clang-format.js133614772801841518 0
 79D:\projects\vipcoin\node_modules\caniuse-lite\data\features\speech-synthesis.js133614772877257214 0
-44D:\projects\vipcoin\dist\vipcoin.59712999.js133635571648855509 0
+44D:\projects\vipcoin\dist\vipcoin.59712999.js134095703075713282 0
 76D:\projects\vipcoin\node_modules\swiper\modules\manipulation-element.min.css133615609917593763 0
 65D:\projects\vipcoin\node_modules\swiper\modules\manipulation.less133615609921871500 0
 120D:\projects\vipcoin\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\restructure\prepare\processSelector.js133614772817602985 0
@@ -1717,7 +1717,7 @@
 63D:\projects\vipcoin\node_modules\swiper\modules\navigation.scss133615609927412272 0
 70D:\projects\vipcoin\node_modules\swiper\modules\pagination-element.css133615609917680286 0
 86D:\projects\vipcoin\node_modules\csso\node_modules\css-tree\cjs\syntax\scope\index.cjs133614772824285997 0
-47D:\projects\vipcoin\dist\attention.b57909f7.svg133635571648825584 0
+47D:\projects\vipcoin\dist\attention.b57909f7.svg134095703075474787 0
 74D:\projects\vipcoin\node_modules\swiper\modules\pagination-element.min.css133615609917700239 0
 85D:\projects\vipcoin\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\LICENSE133614772787982442 0
 62D:\projects\vipcoin\node_modules\swiper\modules\pagination.css133615609917713090 0
@@ -1784,7 +1784,7 @@
 57D:\projects\vipcoin\node_modules\semver\functions\sort.js133614772818137956 0
 72D:\projects\vipcoin\node_modules\caniuse-lite\data\features\gyroscope.js133614772867654965 0
 57D:\projects\vipcoin\node_modules\cosmiconfig\dist\util.js133614772801776122 0
-43D:\projects\vipcoin\dist\poker.a1674a18.svg133635571648815608 0
+43D:\projects\vipcoin\dist\poker.a1674a18.svg134095703074792189 0
 66D:\projects\vipcoin\node_modules\@parcel\reporter-cli\src\emoji.js133614772798484102 0
 71D:\projects\vipcoin\node_modules\swiper\modules\virtual-element.min.css133615609917894204 0
 59D:\projects\vipcoin\node_modules\swiper\modules\virtual.css133615609917894204 0
@@ -2139,7 +2139,7 @@
 98D:\projects\vipcoin\node_modules\css-select\node_modules\entities\lib\generated\encode-html.js.map133614772817598039 0
 111D:\projects\vipcoin\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\scope\atrulePrelude.js133614772796633528 0
 45D:\projects\vipcoin\node_modules\sass\sass.js133614774353070624 0
-47D:\projects\vipcoin\dist\index.75f14d4e.css.map133635571649035038 0
+47D:\projects\vipcoin\dist\index.75f14d4e.css.map134095703075866171 0
 104D:\projects\vipcoin\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\CDC.js133614772799310249 0
 58D:\projects\vipcoin\node_modules\htmlnano\lib\htmlnano.mjs133614772826935302 0
 43D:\projects\vipcoin\node_modules\sass\types133621578521367395 1
@@ -2545,7 +2545,7 @@
 67D:\projects\vipcoin\node_modules\@parcel\core\lib\PackagerRunner.js133614772829302875 0
 48D:\projects\vipcoin\node_modules\@parcel\fs\test133621578202214433 1
 67D:\projects\vipcoin\node_modules\mdn-data\css\selectors.schema.json133614772809676368 0
-41D:\projects\vipcoin\dist\250.e51b51b5.png133635571648975175 0
+41D:\projects\vipcoin\dist\250.e51b51b5.png134095703074915999 0
 63D:\projects\vipcoin\node_modules\@swc\helpers\scripts\errors.js133614772854368200 0
 88D:\projects\vipcoin\node_modules\css-select\node_modules\dom-serializer\lib\esm\index.js133614772792495614 0
 59D:\projects\vipcoin\node_modules\mdn-data\css\syntaxes.json133614772812200762 0
@@ -2852,7 +2852,7 @@
 79D:\projects\vipcoin\node_modules\caniuse-lite\data\features\css-supports-api.js133614772857230917 0
 57D:\projects\vipcoin\node_modules\glob-parent\CHANGELOG.md133614774340762309 0
 58D:\projects\vipcoin\node_modules\js-yaml\lib\type\pairs.js133614772812480095 0
-43D:\projects\vipcoin\dist\craps.35e4e1b2.svg133635571648815608 0
+43D:\projects\vipcoin\dist\craps.35e4e1b2.svg134095703074792189 0
 62D:\projects\vipcoin\node_modules\@parcel\profiler\src\Trace.js133614772796369336 0
 56D:\projects\vipcoin\node_modules\js-yaml\lib\type\seq.js133614772813775413 0
 57D:\projects\vipcoin\node_modules\js-yaml\dist\js-yaml.mjs133614772816556307 0
@@ -3068,7 +3068,7 @@
 84D:\projects\vipcoin\node_modules\css-select\node_modules\entities\lib\index.d.ts.map133614772821280739 0
 49D:\projects\vipcoin\node_modules\escalade\license133614772786468916 0
 54D:\projects\vipcoin\node_modules\escalade\package.json133614772791505077 0
-44D:\projects\vipcoin\dist\casino.0d721f7b.svg133635571648815608 0
+44D:\projects\vipcoin\dist\casino.0d721f7b.svg134095703074792189 0
 68D:\projects\vipcoin\node_modules\caniuse-lite\data\features\meter.js133614772870569739 0
 51D:\projects\vipcoin\node_modules\dom-serializer\lib133621578470580077 1
 88D:\projects\vipcoin\node_modules\@swc\helpers\cjs\_class_check_private_static_access.cjs133614772807224683 0
@@ -3370,7 +3370,7 @@
 89D:\projects\vipcoin\node_modules\csso\node_modules\css-tree\cjs\tokenizer\TokenStream.cjs133614772835306743 0
 59D:\projects\vipcoin\node_modules\@parcel\optimizer-htmlnano133621578227800063 1
 83D:\projects\vipcoin\node_modules\csso\node_modules\css-tree\cjs\tokenizer\types.cjs133614772836299783 0
-45D:\projects\vipcoin\dist\lottery.10891cd5.svg133635571648975175 0
+45D:\projects\vipcoin\dist\lottery.10891cd5.svg134095703075474787 0
 63D:\projects\vipcoin\node_modules\@parcel\cache\lib\LMDBCache.js133614772799189129 0
 92D:\projects\vipcoin\node_modules\csso\node_modules\css-tree\cjs\syntax\node\TypeSelector.cjs133614772836370472 0
 83D:\projects\vipcoin\node_modules\csso\node_modules\css-tree\cjs\tokenizer\utils.cjs133614772840067824 0
@@ -3690,7 +3690,7 @@
 75D:\projects\vipcoin\node_modules\css-tree\lib\syntax\node\index-generate.js133614772854896831 0
 73D:\projects\vipcoin\node_modules\caniuse-lite\data\features\selectlist.js133614772876936643 0
 68D:\projects\vipcoin\node_modules\caniuse-lite\data\regions\alt-sa.js133614772809741473 0
-41D:\projects\vipcoin\dist\100.27ec9cae.png133635571648666013 0
+41D:\projects\vipcoin\dist\100.27ec9cae.png134095703075507574 0
 81D:\projects\vipcoin\node_modules\css-tree\lib\syntax\node\index-parse-selector.js133614772854942754 0
 66D:\projects\vipcoin\node_modules\css-tree\lib\syntax\node\index.js133614772855465733 0
 71D:\projects\vipcoin\node_modules\css-tree\lib\syntax\node\MediaQuery.js133614772856084305 0
@@ -3823,7 +3823,7 @@
 56D:\projects\vipcoin\node_modules\@parcel\fs\src\index.js133614772795339461 0
 71D:\projects\vipcoin\node_modules\css-tree\cjs\syntax\node\Dimension.cjs133614772816340506 0
 69D:\projects\vipcoin\node_modules\css-tree\cjs\syntax\node\Feature.cjs133614772817794090 0
-46D:\projects\vipcoin\dist\roulette.3e60ef6a.svg133635571648975175 0
+46D:\projects\vipcoin\dist\roulette.3e60ef6a.svg134095703075484750 0
 67D:\projects\vipcoin\node_modules\@parcel\workers\lib\core-worker.js133614772800072780 0
 74D:\projects\vipcoin\node_modules\css-tree\cjs\syntax\node\FeatureRange.cjs133614772818188985 0
 77D:\projects\vipcoin\node_modules\css-tree\cjs\syntax\node\GeneralEnclosed.cjs133614772820036170 0
@@ -4036,7 +4036,7 @@
 88D:\projects\vipcoin\node_modules\css-select\node_modules\domutils\lib\esm\helpers.js.map133614772812575624 0
 84D:\projects\vipcoin\node_modules\css-select\node_modules\domutils\lib\esm\index.d.ts133614772822440912 0
 82D:\projects\vipcoin\node_modules\css-select\node_modules\domutils\lib\esm\index.js133614772794893471 0
-48D:\projects\vipcoin\dist\black-jack.9ba6bcae.svg133635571648815608 0
+48D:\projects\vipcoin\dist\black-jack.9ba6bcae.svg134095703074792189 0
 86D:\projects\vipcoin\node_modules\css-select\node_modules\domutils\lib\esm\index.js.map133614772814352652 0
 83D:\projects\vipcoin\node_modules\css-select\node_modules\domutils\lib\esm\legacy.js133614772796786501 0
 64D:\projects\vipcoin\node_modules\@parcel\source-map\package.json133614772808496323 0
@@ -4366,7 +4366,7 @@
 64D:\projects\vipcoin\node_modules\caniuse-lite\data\regions\IS.js133614772868928229 0
 66D:\projects\vipcoin\node_modules\@swc\helpers\src\_export_star.mjs133614772858481788 0
 52D:\projects\vipcoin\node_modules\@swc\helpers\_\_get133621578343451351 1
-45D:\projects\vipcoin\dist\airpods.036d3b74.png133635571648985153 0
+45D:\projects\vipcoin\dist\airpods.036d3b74.png134095703074906039 0
 80D:\projects\vipcoin\node_modules\@parcel\core\lib\requests\ParcelBuildRequest.js133614772835317420 0
 68D:\projects\vipcoin\node_modules\@parcel\utils\src\parseCSSImport.js133614772822879074 0
 64D:\projects\vipcoin\node_modules\caniuse-lite\data\regions\JE.js133614772868969565 0
@@ -4422,7 +4422,7 @@
 68D:\projects\vipcoin\node_modules\@parcel\package-manager\src\Pnpm.js133614772813698736 0
 64D:\projects\vipcoin\node_modules\caniuse-lite\data\regions\PF.js133614772872374640 0
 64D:\projects\vipcoin\node_modules\caniuse-lite\data\regions\PG.js133614772872385137 0
-46D:\projects\vipcoin\dist\gambling.59b3c77a.svg133635571648975175 0
+46D:\projects\vipcoin\dist\gambling.59b3c77a.svg134095703075474787 0
 64D:\projects\vipcoin\node_modules\caniuse-lite\data\regions\PK.js133614772872502847 0
 56D:\projects\vipcoin\node_modules\@parcel\packager-js\src133621578244098743 1
 64D:\projects\vipcoin\node_modules\caniuse-lite\data\regions\PL.js133614772872546049 0
@@ -4782,7 +4782,7 @@
 83D:\projects\vipcoin\node_modules\caniuse-lite\data\features\spellcheck-attribute.js133614772877265842 0
 74D:\projects\vipcoin\node_modules\caniuse-lite\data\features\sql-storage.js133614772877285515 0
 69D:\projects\vipcoin\node_modules\caniuse-lite\data\features\srcset.js133614772877350396 0
-43D:\projects\vipcoin\dist\index.75f14d4e.css133635571648985153 0
+43D:\projects\vipcoin\dist\index.75f14d4e.css134095703075683351 0
 86D:\projects\vipcoin\node_modules\caniuse-lite\data\features\stricttransportsecurity.js133614772877460767 0
 71D:\projects\vipcoin\node_modules\caniuse-lite\data\features\svg-html.js133614772877656879 0
 72D:\projects\vipcoin\node_modules\caniuse-lite\data\features\svg-html5.js133614772877680949 0
@@ -4884,7 +4884,7 @@
 57D:\projects\vipcoin\node_modules\@swc\types\tsconfig.json133614772791340392 0
 49D:\projects\vipcoin\node_modules\@swc\helpers\esm133621578338457602 1
 58D:\projects\vipcoin\node_modules\@swc\helpers\package.json133614772857878783 0
-50D:\projects\vipcoin\dist\fortune-reel.10cc1b37.svg133635571648825584 0
+50D:\projects\vipcoin\dist\fortune-reel.10cc1b37.svg134095703074792189 0
 49D:\projects\vipcoin\node_modules\@swc\helpers\src133621578341253878 1
 67D:\projects\vipcoin\node_modules\@parcel\core\src\CommittedAsset.js133614772822511354 0
 66D:\projects\vipcoin\node_modules\@swc\helpers\_\_apply_decs_2203_r133621578341374020 1
@@ -5028,7 +5028,7 @@
 102D:\projects\vipcoin\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\common133621578233632271 1
 108D:\projects\vipcoin\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\parcel_sourcemap_wasm.js133614772799131133 0
 63D:\projects\vipcoin\node_modules\@swc\helpers\src\_identity.mjs133614772858747497 0
-41D:\projects\vipcoin\dist\500.c7418846.png133635571648666013 0
+41D:\projects\vipcoin\dist\500.c7418846.png134095703075507574 0
 63D:\projects\vipcoin\node_modules\@swc\helpers\src\_inherits.mjs133614772858758943 0
 73D:\projects\vipcoin\node_modules\@swc\helpers\src\_is_native_function.mjs133614772858790226 0
 72D:\projects\vipcoin\node_modules\@swc\helpers\src\_iterable_to_array.mjs133614772858822297 0
@@ -5117,7 +5117,7 @@
 78D:\projects\vipcoin\node_modules\@swc\helpers\esm\_interop_require_wildcard.js133614772849980946 0
 75D:\projects\vipcoin\node_modules\@parcel\utils\test\input\config\empty.toml133614772831103394 0
 81D:\projects\vipcoin\node_modules\@swc\helpers\esm\_is_native_reflect_construct.js133614772850179415 0
-45D:\projects\vipcoin\dist\model S.25417ac7.png133635571648685949 0
+45D:\projects\vipcoin\dist\model S.25417ac7.png134095703075518128 0
 71D:\projects\vipcoin\node_modules\@swc\helpers\esm\_iterable_to_array.js133614772850307919 0
 77D:\projects\vipcoin\node_modules\@swc\helpers\esm\_iterable_to_array_limit.js133614772850247427 0
 57D:\projects\vipcoin\node_modules\@swc\helpers\esm\_jsx.js133614772850363147 0
@@ -5289,7 +5289,7 @@
 70D:\projects\vipcoin\node_modules\@parcel\workers\test\cpuCount.test.js133614772803682558 0
 65D:\projects\vipcoin\node_modules\@parcel\workers\test\integration133621578320424968 1
 67D:\projects\vipcoin\node_modules\@parcel\workers\test\workerfarm.js133614772821156256 0
-56D:\projects\vipcoin\dist\swiper-button-prev.7b50a9ad.svg133635571648825584 0
+56D:\projects\vipcoin\dist\swiper-button-prev.7b50a9ad.svg134095703075484750 0
 76D:\projects\vipcoin\node_modules\@parcel\workers\test\integration\workerfarm133621578320824434 1
 84D:\projects\vipcoin\node_modules\@parcel\workers\test\integration\workerfarm\echo.js133614772806903169 0
 87D:\projects\vipcoin\node_modules\@parcel\workers\test\integration\workerfarm\ipc-pid.js133614772809584153 0
@@ -5568,7 +5568,7 @@
 77D:\projects\vipcoin\node_modules\@parcel\runtime-js\src\helpers\bundle-url.js133614772794959351 0
 78D:\projects\vipcoin\node_modules\@parcel\runtime-js\src\helpers\cacheLoader.js133614772796578726 0
 81D:\projects\vipcoin\node_modules\@parcel\runtime-js\src\helpers\get-worker-url.js133614772806923115 0
-48D:\projects\vipcoin\dist\login-icon.b87fbe3d.svg133635571648825584 0
+48D:\projects\vipcoin\dist\login-icon.b87fbe3d.svg134095703074792189 0
 58D:\projects\vipcoin\node_modules\@parcel\packager-wasm\src133621578246284606 1
 83D:\projects\vipcoin\node_modules\@parcel\runtime-js\src\helpers\worker\js-loader.js133614772814634171 0
 96D:\projects\vipcoin\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\package.json133614772801960768 0
@@ -5819,7 +5819,7 @@
 69D:\projects\vipcoin\node_modules\.bin\download-msgpackr-prebuilds.ps1133614772880777799 0
 95D:\projects\vipcoin\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\replace\String.js133614772819802187 0
 92D:\projects\vipcoin\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\replace\Url.js133614772820276329 0
-42D:\projects\vipcoin\dist\index.f68744d1.js133635571648855509 0
+42D:\projects\vipcoin\dist\index.f68744d1.js134095703075487577 0
 109D:\projects\vipcoin\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\replace\property\font-weight.js133614772814964795 0
 93D:\projects\vipcoin\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\clean\Atrule.js133614772797938234 0
 94D:\projects\vipcoin\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\clean\Comment.js133614772803699428 0
@@ -6043,7 +6043,7 @@
 91D:\projects\vipcoin\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\utils133621578217291277 1
 112D:\projects\vipcoin\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\utils\createCustomError.js133614772814414501 0
 100D:\projects\vipcoin\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\utils\names.js133614772827693116 0
-42D:\projects\vipcoin\dist\1000.cd3f9ac1.png133635571648975175 0
+42D:\projects\vipcoin\dist\1000.cd3f9ac1.png134095703074803026 0
 120D:\projects\vipcoin\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\tokenizer\char-code-definitions.js133614772802104044 0
 72D:\projects\vipcoin\node_modules\@parcel\core\test\TargetRequest.test.js133614772854230190 0
 104D:\projects\vipcoin\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\tokenizer\index.js133614772825635412 0
@@ -6117,7 +6117,7 @@
 98D:\projects\vipcoin\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\compile.js133614772792915084 0
 104D:\projects\vipcoin\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\general.d.ts.map133614772807284525 0
 98D:\projects\vipcoin\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\index.d.ts133614772815029448 0
-42D:\projects\vipcoin\dist\tour.127425f6.png133635571648985153 0
+42D:\projects\vipcoin\dist\tour.127425f6.png134095703074906039 0
 96D:\projects\vipcoin\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\index.js133614772796244084 0
 102D:\projects\vipcoin\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\procedure.d.ts133614772815467563 0
 100D:\projects\vipcoin\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\procedure.js133614772797726212 0
@@ -6392,14 +6392,14 @@
 46D:\projects\vipcoin\node_modules\.bin\svgo.cmd133614772880777799 0
 60D:\projects\vipcoin\node_modules\.bin\update-browserslist-db133614772880783481 0
 64D:\projects\vipcoin\node_modules\.bin\update-browserslist-db.cmd133614772880783481 0
-43D:\projects\vipcoin\dist\watch.7799f367.png133635571648666013 0
-46D:\projects\vipcoin\dist\notebook.db264a00.png133635571648685949 0
-45D:\projects\vipcoin\dist\tg-logo.8922e268.svg133635571648815608 0
-50D:\projects\vipcoin\dist\youtube-logo.f8970b19.svg133635571648815608 0
-43D:\projects\vipcoin\dist\slots.a06cbfde.svg133635571648815608 0
-42D:\projects\vipcoin\dist\bets.defaf9bb.svg133635571648975175 0
-45D:\projects\vipcoin\dist\vk-logo.36ad4a5c.svg133635571648975175 0
-43D:\projects\vipcoin\dist\Graph.0fe3b511.svg133635571648975175 0
-35D:\projects\vipcoin\dist\index.html133635571648975175 0
-45D:\projects\vipcoin\dist\model Y.0e9b8aa1.png133635571648985153 0
-45D:\projects\vipcoin\dist\model X.68f1ea60.png133635571648985153 0
+45D:\projects\vipcoin\dist\tg-logo.8922e268.svg134095703074792189 0
+50D:\projects\vipcoin\dist\youtube-logo.f8970b19.svg134095703074792189 0
+43D:\projects\vipcoin\dist\slots.a06cbfde.svg134095703074792189 0
+43D:\projects\vipcoin\dist\Graph.0fe3b511.svg134095703074792189 0
+45D:\projects\vipcoin\dist\model X.68f1ea60.png134095703074906039 0
+45D:\projects\vipcoin\dist\model Y.0e9b8aa1.png134095703074915999 0
+45D:\projects\vipcoin\dist\vk-logo.36ad4a5c.svg134095703075474787 0
+42D:\projects\vipcoin\dist\bets.defaf9bb.svg134095703075484750 0
+35D:\projects\vipcoin\dist\index.html134095703075497588 0
+43D:\projects\vipcoin\dist\watch.7799f367.png134095703075518128 0
+46D:\projects\vipcoin\dist\notebook.db264a00.png134095703075518128 0
